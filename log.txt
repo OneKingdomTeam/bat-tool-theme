@@ -1,0 +1,34 @@
+string(113) "/home/u617797570/domains/bat.onekingdom.team/public_html/wp-content/themes/wp-2023-child-bulma/media/bat-logo.png"
+\n\n\narray(2) {
+  ["ext"]=>
+  string(3) "png"
+  ["type"]=>
+  string(9) "image/png"
+}
+\n\n\narray(6) {
+  ["path"]=>
+  string(83) "/home/u617797570/domains/bat.onekingdom.team/public_html/wp-content/uploads/2023/11"
+  ["url"]=>
+  string(53) "http://bat.onekingdom.team/wp-content/uploads/2023/11"
+  ["subdir"]=>
+  string(8) "/2023/11"
+  ["basedir"]=>
+  string(75) "/home/u617797570/domains/bat.onekingdom.team/public_html/wp-content/uploads"
+  ["baseurl"]=>
+  string(45) "http://bat.onekingdom.team/wp-content/uploads"
+  ["error"]=>
+  bool(false)
+}
+\n\n\narray(5) {
+  ["guid"]=>
+  string(66) "http://bat.onekingdom.team/wp-content/uploads/2023/11/bat-logo.png"
+  ["post_mime_type"]=>
+  string(9) "image/png"
+  ["post_title"]=>
+  string(8) "bat-logo"
+  ["post_content"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "inherit"
+}
+\n\n\nint(8)

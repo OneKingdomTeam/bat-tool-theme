@@ -26,3 +26,11 @@ Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, feature
 .thet-post-content-wrapper {
 	min-height: 80vh!important;
 }
+
+.thet-wp-button {
+  transition: all 0.5s;
+}
+
+.thet-wp-button:hover {
+  background-color:  #c7c7c7
+}
